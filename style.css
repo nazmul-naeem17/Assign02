@@ -1,0 +1,51 @@
+img{
+    width: 100%;
+    height: 300px;
+    margin: auto;
+    border: 4px solid aqua;
+}
+h1{
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    background-color: skyblue;
+    color: white;
+    border: 5px solid aqua;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    background-color: royalblue;
+    color: lightcyan;
+    border: 5px solid aqua;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+form{
+    margin-left: 20px;
+}
+button{
+    background-color: #00d0ff;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    margin: 2px 20px;
+    cursor: pointer;
+}
+p{
+   text-transform: capitalize;
+   color: azure;
+}
+b{
+    color: rgb(255, 216, 42);
+}
+body{
+    margin: auto;
+    background-image: url("2.png");
+}
+input:checked{
+    height: 15px;
+    width: 15px;
+    accent-color: rgb(14, 160, 251);
+}
